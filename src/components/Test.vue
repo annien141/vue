@@ -140,7 +140,7 @@
       </div>
       <div class="i_car">
         <div class="car_t"  @click="car">购物车 </div>
-        
+
       </div>
     </div>
     <!--End Header End-->
@@ -416,7 +416,7 @@
 </template>
 <script>
     import axios from 'axios'
-    import global from './common.vue'
+    import global from './Common.vue'
     export default {
         data () {
             return {

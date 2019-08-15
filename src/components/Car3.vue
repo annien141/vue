@@ -574,7 +574,7 @@
 
 <script>
     import axios from 'axios'
-    import global from './common.vue'
+    import global from './Common.vue'
 
     export default {
         data () {
